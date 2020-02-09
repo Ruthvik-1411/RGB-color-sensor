@@ -1,2 +1,4 @@
 # RGB-color-sensor
-First repository
+Made a color sensor using 
+Arduino microcontroller and
+RGB led.
